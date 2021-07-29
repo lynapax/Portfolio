@@ -39,13 +39,13 @@ Atualmente este projeto está sendo desenvolvido para o ambiente Unity.
 
 ## Cursos 
 
- ### Programação 
+### Programação 
+  
+ MC102 - Algoritmos e Programação de Computadores (linguagem: C)  
+ MC202 - Estrutura de Dados (linguagem: C)  
+ MC322 - Orientada a Objetos (linguagem: Java)  
+ MC404: Organização Básica de Computadores e Linguagem de Montagem
  
- Java JRE e JDK: Escreva o seu primeiro código com Eclipse
- MC102 - Algoritmos e Programação de Computadores (linguagem: C)
- MC202 - Estrutura de Dados (linguagem: C)
- MC322 - Orientada a Objetos (linguagem: Java)
- MC404: Organização Básica de Computadores e Linguagem de Montagem 
  
  ### UX & Design
  
