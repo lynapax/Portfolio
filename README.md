@@ -4,11 +4,13 @@ Este Repositório tem como fim adicionar os meus trabalhos mais recentes
 ## Sobre Mim  
 
 Sou a Erica Oliveira, aluna do curso de Engenharia de Controle e Automação na UNICAMP e entusiasta de Tecnologia. 
-Atualmente dedico meus estudos e interesses em Programação e Análise de Dados. 
+Atualmente dedico meus estudos e interesses em Programação e Análise de Dados através de estudos independentes.
+Alguns cursos com certificação : [Cursos](https://github.com/)
 
 curriculo com o histórico profissional pode ser visto através do link : [CV Erica](https://github.com/)
 
-## Programação 
+
+## Programação - Projetos
 
 ### BomberShip 
 
@@ -33,3 +35,34 @@ O primeiro modelo em desenvolvimento foi em Java e se encontra no link :
 Este primeiro modelo foi para testar conceitualmente e aprofundar em alguns temas abordados no projeto BomberShip. 
 
 Atualmente este projeto está sendo desenvolvido para o ambiente Unity.
+
+
+## Cursos 
+
+ ### Programação 
+ 
+ Java JRE e JDK: Escreva o seu primeiro código com Eclipse
+ MC102 - Algoritmos e Programação de Computadores (linguagem: C)
+ MC202 - Estrutura de Dados (linguagem: C)
+ MC322 - Orientada a Objetos (linguagem: Java)
+ MC404: Organização Básica de Computadores e Linguagem de Montagem 
+ 
+ ### UX & Design
+ 
+ Design & Web 
+ Blender: Trabalhando na modelagem Low Poly  
+ Blender: Texturizando esculturas com Hand Paint  
+ 
+ 
+ ### Análise de Dados 
+ 
+ Lean Six Sigma Green Belt 
+ Business Intelligence: Introdução à inteligência empresarial  
+ Data Science: Primeiros passos  
+ Data Analysis: Introdução com Google Sheets  
+ Data Analysis: Previsões com Google Sheets  
+ Data Analysis: Estatística com Google Sheets 
+ 
+ ### Outros 
+
+ Vendas de alta performance: Perguntas poderosas  
