@@ -1,6 +1,12 @@
 # Portfolio
 Este Repositório tem como fim adicionar os meus trabalhos mais recentes
 
+## Sobre Mim  
+
+Sou a Erica Oliveira, aluna do curso de Engenharia de Controle e Automação na UNICAMP e entusiasta de Tecnologia. 
+Atualmente dedico meus estudos e interesses em Programação e Análise de Dados. 
+
+curriculo com o histórico profissional pode ser visto através do link : [CV Erica](https://github.com/)
 
 ## Programação 
 
