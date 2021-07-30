@@ -5,9 +5,9 @@ Este Repositório tem como fim adicionar os meus trabalhos mais recentes
 
 Sou a Erica Oliveira, aluna do curso de Engenharia de Controle e Automação na UNICAMP e entusiasta de Tecnologia. 
 Atualmente dedico meus estudos e interesses em Programação e Análise de Dados através de estudos independentes.
-Alguns cursos com certificação : [Cursos](https://github.com/)
+Alguns cursos com certificação : [Cursos](https://github.com/lynapax/Portfolio#cursos)
 
-curriculo com o histórico profissional pode ser visto através do link : [CV Erica](https://github.com/)
+curriculo com o histórico profissional pode ser visto através do link : [CV Erica](https://github.com/lynapax/Portfolio/blob/main/curriculo%20-%20Erica%20Yuri%20Nunes%20de%20Oliveira%20(1).pdf)
 
 
 ## Programação - Projetos
@@ -45,7 +45,7 @@ Atualmente este projeto está sendo desenvolvido para o ambiente Unity.
  MC202 - Estrutura de Dados (linguagem: C)  
  MC322 - Orientada a Objetos (linguagem: Java)  
  MC404: Organização Básica de Computadores e Linguagem de Montagem
- 
+ C# : Herança e Interfaces 
  
  ### UX & Design
  
