@@ -47,8 +47,8 @@ Atualmente este projeto está sendo desenvolvido para o ambiente Unity.
  MC202 - Estrutura de Dados (linguagem: C)  
  MC322 - Orientada a Objetos (linguagem: Java)  
  MC404: Organização Básica de Computadores e Linguagem de Montagem  
- C# : Herança e Interfaces 
- C# : Exceções
+ C# : Herança e Interfaces  
+ C# : Exceções  
  
  ### UX & Design
  
